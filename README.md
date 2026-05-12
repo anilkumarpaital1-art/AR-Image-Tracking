@@ -1,6 +1,5 @@
 # 🐉 AR Image Tracking System – Unity & Vuforia AR App
 
-![Banner](banner.jpg)
 
 ![Unity](https://img.shields.io/badge/Unity-3D-black?logo=unity)
 ![C#](https://img.shields.io/badge/C%23-Programming-blue?logo=csharp)
