@@ -28,24 +28,12 @@ The project combines:
 
 ---
 
-# 📸 Screenshots
-
-## 📷 AR Camera Detection
-![Detection](Screenshots/detection.png)
-
-## 🐉 Dragon Spawn in AR Space
-![Dragon](Screenshots/dragon.png)
-
-## 🎮 Joystick Movement Controls
-![Controls](Screenshots/controls.png)
-
----
-
 # 🖼️ Marker Image
 
 Scan this image target to spawn the dragon model inside the AR environment.
 
-![Marker](Marker/marker.jpg)
+![Marker](<img width="3733" height="2100" alt="8c25cdbef5f71ceebb6242d7b654ac6c0ed94cce2ad088337a686dbca480913257b862fe1511330dd9e212e9be8c3cb3" src="https://github.com/user-attachments/assets/620f35f7-f7e8-4046-a337-5653c70bc817" />
+)
 
 ---
 
@@ -181,18 +169,6 @@ File → Build Settings → iOS → Build
 - Move dragon in different directions
 - Smooth speed control
 - Responsive mobile interaction
-
----
-
-## 📸 Screenshots
-
-- AR Camera Detection
-- Dragon Spawn in AR Space
-- Joystick Movement Controls
-- Mobile Gameplay View
-
-<img width="3733" height="2100" alt="8c25cdbef5f71ceebb6242d7b654ac6c0ed94cce2ad088337a686dbca480913257b862fe1511330dd9e212e9be8c3cb3" src="https://github.com/user-attachments/assets/828bde25-beae-4307-a213-d562e1aaef4d" />
-
 
 ---
 
