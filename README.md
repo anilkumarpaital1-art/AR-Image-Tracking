@@ -1,10 +1,14 @@
-# 🐉 AR Image Tracking System – Unity & Vuforia AR App
+<h1 align="center">🐉 AR Image Tracking System</h1>
 
+<p align="center">
+  Unity • Vuforia • ARCore • C#
+</p>
 
-![Unity](https://img.shields.io/badge/Unity-3D-black?logo=unity)
-![C#](https://img.shields.io/badge/C%23-Programming-blue?logo=csharp)
-![Vuforia](https://img.shields.io/badge/Vuforia-AR-green)
-![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-orange)
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-3D-black?logo=unity"/>
+  <img src="https://img.shields.io/badge/C%23-Programming-blue?logo=csharp"/>
+  <img src="https://img.shields.io/badge/Vuforia-AR-green"/>
+</p>
 
 ---
 
@@ -22,22 +26,23 @@ The project combines:
 
 ---
 
-# 🎥 Demo
+## 🎥 Demo
 
 ![Demo](demo.gif)
 
 ---
 
-# 🖼️ Marker Image
+## 🖼️ Marker Image
 
 Scan this image target to spawn the dragon model inside the AR environment.
 
-![Marker]<img width="3733" height="2100" alt="8c25cdbef5f71ceebb6242d7b654ac6c0ed94cce2ad088337a686dbca480913257b862fe1511330dd9e212e9be8c3cb3" src="https://github.com/user-attachments/assets/27d9af30-b774-42b5-892b-fcda1481b583" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/27d9af30-b774-42b5-892b-fcda1481b583" width="700"/>
+</p>
 
 ---
 
-# 🚀 Features
+## 🚀 Features
 
 - 📷 Real-Time Image Target Detection
 - 🐉 3D Dragon Model Integration
@@ -51,26 +56,26 @@ Scan this image target to spawn the dragon model inside the AR environment.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 🎮 Development Platform
+### 🎮 Development Platform
 - Unity 3D
 - C#
 - Unity UI System
 
-## 📡 AR Technologies
+### 📡 AR Technologies
 - Vuforia Engine
 - ARCore (Android)
 - ARKit (iOS)
 
-## 🎨 3D & Animation
+### 🎨 3D & Animation
 - Blender / 3D Assets
 - Animator Controller
 - Rigidbody Physics
 
 ---
 
-# 🧠 System Workflow
+## 🧠 System Workflow
 
 ```text
 Camera Input
@@ -84,6 +89,7 @@ AR Image Tracking
 Joystick Interaction
      ↓
 Real-Time AR Experience
+```
 
 ---
 
@@ -172,13 +178,13 @@ File → Build Settings → iOS → Build
 
 ---
 
-💡 Motivation
+## 💡 Motivation
 
 This project was developed to explore the capabilities of Augmented Reality using Unity and Vuforia by combining real-time image tracking with interactive 3D object control.
 
 ---
 
-📝 Project Summary
+##📝 Project Summary
 
 Developed a mobile Augmented Reality application capable of detecting predefined image targets and rendering interactive 3D models using Unity and Vuforia Engine with real-time joystick-based controls.
 
