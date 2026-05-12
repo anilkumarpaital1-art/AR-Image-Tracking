@@ -1,10 +1,10 @@
-<h1 align="center">🐉 AR Image Tracking System</h1>
+<h1 align="left">🐉 AR Image Tracking System</h1>
 
-<p align="center">
+<p align="left">
   Unity • Vuforia • ARCore • C#
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Unity-3D-black?logo=unity"/>
   <img src="https://img.shields.io/badge/C%23-Programming-blue?logo=csharp"/>
   <img src="https://img.shields.io/badge/Vuforia-AR-green"/>
