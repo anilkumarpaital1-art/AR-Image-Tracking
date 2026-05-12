@@ -1,10 +1,56 @@
 # 🐉 AR Image Tracking System – Unity & Vuforia AR App
 
-AR Image Tracking System is an interactive augmented reality mobile application developed using **Unity 3D** and **Vuforia Engine**. The application detects predefined real-world images and overlays a controllable 3D dragon model into the AR environment, creating an immersive real-time AR experience.
+![Banner](banner.jpg)
+
+![Unity](https://img.shields.io/badge/Unity-3D-black?logo=unity)
+![C#](https://img.shields.io/badge/C%23-Programming-blue?logo=csharp)
+![Vuforia](https://img.shields.io/badge/Vuforia-AR-green)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-orange)
 
 ---
 
-## 🚀 Features
+## 📌 Overview
+
+AR Image Tracking System is an interactive Augmented Reality mobile application developed using **Unity 3D** and **Vuforia Engine**.  
+The application detects predefined real-world images and overlays an animated **3D Dragon Model** into the AR environment, creating an immersive real-time AR experience.
+
+The project combines:
+
+- 📷 Real-Time Image Tracking
+- 🐉 Interactive 3D Character Rendering
+- 🎮 Joystick-Based Controls
+- ⚡ Smooth Mobile AR Interaction
+
+---
+
+# 🎥 Demo
+
+![Demo](demo.gif)
+
+---
+
+# 📸 Screenshots
+
+## 📷 AR Camera Detection
+![Detection](Screenshots/detection.png)
+
+## 🐉 Dragon Spawn in AR Space
+![Dragon](Screenshots/dragon.png)
+
+## 🎮 Joystick Movement Controls
+![Controls](Screenshots/controls.png)
+
+---
+
+# 🖼️ Marker Image
+
+Scan this image target to spawn the dragon model inside the AR environment.
+
+![Marker](Marker/marker.jpg)
+
+---
+
+# 🚀 Features
 
 - 📷 Real-Time Image Target Detection
 - 🐉 3D Dragon Model Integration
@@ -14,28 +60,43 @@ AR Image Tracking System is an interactive augmented reality mobile application 
 - 🎞️ Animated 3D Character
 - 🧭 Object Rotation & Movement Control
 - 🔐 Stable AR Object Tracking with Vuforia
+- 🌍 Immersive Augmented Reality Experience
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Development Platform
-
+## 🎮 Development Platform
 - Unity 3D
 - C#
 - Unity UI System
 
-### AR Technologies
-
+## 📡 AR Technologies
 - Vuforia Engine
 - ARCore (Android)
 - ARKit (iOS)
 
-### 3D & Animation
-
+## 🎨 3D & Animation
 - Blender / 3D Assets
 - Animator Controller
 - Rigidbody Physics
+
+---
+
+# 🧠 System Workflow
+
+```text
+Camera Input
+     ↓
+Vuforia Image Detection
+     ↓
+AR Image Tracking
+     ↓
+3D Dragon Spawn
+     ↓
+Joystick Interaction
+     ↓
+Real-Time AR Experience
 
 ---
 
@@ -64,8 +125,8 @@ AR-Image-Tracking/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ar-image-tracking.git
-cd ar-image-tracking
+git clone https://github.com/anilkumarpaital1-art/AR-Image-Tracking.git
+cd AR-Image-Tracking
 ```
 
 ---
@@ -131,7 +192,20 @@ File → Build Settings → iOS → Build
 - Joystick Movement Controls
 - Mobile Gameplay View
 
-*(Add screenshots here for better presentation)*
+<img width="3733" height="2100" alt="8c25cdbef5f71ceebb6242d7b654ac6c0ed94cce2ad088337a686dbca480913257b862fe1511330dd9e212e9be8c3cb3" src="https://github.com/user-attachments/assets/828bde25-beae-4307-a213-d562e1aaef4d" />
+
+
+---
+
+💡 Motivation
+
+This project was developed to explore the capabilities of Augmented Reality using Unity and Vuforia by combining real-time image tracking with interactive 3D object control.
+
+---
+
+📝 Project Summary
+
+Developed a mobile Augmented Reality application capable of detecting predefined image targets and rendering interactive 3D models using Unity and Vuforia Engine with real-time joystick-based controls.
 
 ---
 
@@ -151,6 +225,12 @@ File → Build Settings → iOS → Build
 - Optimized 3D model performance
 - Reduced mobile rendering lag
 - Enhanced joystick responsiveness
+
+---
+
+🌐 Connect With Me
+GitHub: https://github.com/anilkumarpaital1-art
+LinkedIn: https://www.linkedin.com/in/anil-kumar-paital-a35aa6327/
 
 ---
 
