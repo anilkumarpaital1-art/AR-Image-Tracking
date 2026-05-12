@@ -32,8 +32,8 @@ The project combines:
 
 Scan this image target to spawn the dragon model inside the AR environment.
 
-![Marker](<img width="3733" height="2100" alt="8c25cdbef5f71ceebb6242d7b654ac6c0ed94cce2ad088337a686dbca480913257b862fe1511330dd9e212e9be8c3cb3" src="https://github.com/user-attachments/assets/620f35f7-f7e8-4046-a337-5653c70bc817" />
-)
+![Marker]<img width="3733" height="2100" alt="8c25cdbef5f71ceebb6242d7b654ac6c0ed94cce2ad088337a686dbca480913257b862fe1511330dd9e212e9be8c3cb3" src="https://github.com/user-attachments/assets/27d9af30-b774-42b5-892b-fcda1481b583" />
+
 
 ---
 
@@ -204,7 +204,9 @@ Developed a mobile Augmented Reality application capable of detecting predefined
 ---
 
 🌐 Connect With Me
+
 GitHub: https://github.com/anilkumarpaital1-art
+
 LinkedIn: https://www.linkedin.com/in/anil-kumar-paital-a35aa6327/
 
 ---
