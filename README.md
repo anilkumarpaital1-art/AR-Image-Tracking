@@ -28,8 +28,8 @@ The project combines:
 
 ## 🎥 Demo
 
-![Demo](demo.gif)
 ### 📹 Full Demo Video
+
 [▶ Watch Full Demo](https://drive.google.com/drive/folders/1mt2tVCSMug1IHEw7xh0ZW9GgxNgZ72Yt)
 
 ---
@@ -39,7 +39,7 @@ The project combines:
 Scan this image target to spawn the dragon model inside the AR environment.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/27d9af30-b774-42b5-892b-fcda1481b583" width="700"/>
+  <img src="https://github.com/user-attachments/assets/27d9af30-b774-42b5-892b-fcda1481b583" width="500"/>
 </p>
 
 ---
@@ -186,7 +186,7 @@ This project was developed to explore the capabilities of Augmented Reality usin
 
 ---
 
-##📝 Project Summary
+## 📝 Project Summary
 
 Developed a mobile Augmented Reality application capable of detecting predefined image targets and rendering interactive 3D models using Unity and Vuforia Engine with real-time joystick-based controls.
 
@@ -211,11 +211,11 @@ Developed a mobile Augmented Reality application capable of detecting predefined
 
 ---
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
-**Developer:** Anil Kumar Paital
-**LinkedIn:** (https://www.linkedin.com/in/anil-kumar-paital-a35aa6327/)  
-**GitHub:** [anilkumarpaital1-art](https://github.com/anilkumarpaital1-art)
+- 👨‍💻 Developer: Anil Kumar Paital
+- 🔗 LinkedIn: [Anil Kumar Paital](https://www.linkedin.com/in/anil-kumar-paital-a35aa6327/)
+- 💻 GitHub: [anilkumarpaital1-art](https://github.com/anilkumarpaital1-art)
 
 ---
 
