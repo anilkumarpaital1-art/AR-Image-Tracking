@@ -30,6 +30,9 @@ The project combines:
 
 ![Demo](demo.gif)
 
+### 📹 Full Demo Video
+[▶ Watch Full Demo](https://drive.google.com/drive/folders/1mt2tVCSMug1IHEw7xh0ZW9GgxNgZ72Yt)
+
 ---
 
 ## 🖼️ Marker Image
@@ -212,7 +215,6 @@ Developed a mobile Augmented Reality application capable of detecting predefined
 🌐 Connect With Me
 
 GitHub: https://github.com/anilkumarpaital1-art
-
 LinkedIn: https://www.linkedin.com/in/anil-kumar-paital-a35aa6327/
 
 ---
